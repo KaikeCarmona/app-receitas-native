@@ -3,7 +3,7 @@
 </h1>
 
 <!-- <h3 align="center"> 
-  🚧  Finalizado  🚧
+    Finalizado  
 </h3> -->
 
 ## 🧑‍💻 Projeto 

@@ -11,7 +11,7 @@
     Um aplicativo feito para mobile onde pode-se cadastrar um usuario e efetuar login no app, e visualizar diversas receitas.
     Esta aplicação foi desenvolvida utilizando as seguintes tecnologias: React-native, expo, Firebase Database e Authentication
 
-## Demonstração
+## Demonstração Do App
 
 
 ### ⚙ Pré-requisitos
